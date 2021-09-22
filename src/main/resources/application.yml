@@ -1,0 +1,5 @@
+server:
+  port: 8081
+receita:
+  service:
+    url: https://www.receitaws.com.br/v1/cnpj/
